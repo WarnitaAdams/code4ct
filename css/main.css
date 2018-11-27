@@ -1,0 +1,26 @@
+.navbar {
+  overflow: hidden;
+  height: 55px;
+  text-align: center;
+  display: block;
+  word-spacing: 20px;
+  margin-left: 5px; }
+
+.navbar a {
+  width: 201px;
+  height: 5.5px;
+  font-family: Poppins;
+  font-size: 10px;
+  line-height: 2.14;
+  color: #666666;
+  text-decoration: none; }
+
+a:active {
+  color: #ee534f; }
+
+.search_container {
+  float: right;
+  margin-right: 20%;
+  margin-bottom: 10%; }
+
+/*# sourceMappingURL=main.css.map */
