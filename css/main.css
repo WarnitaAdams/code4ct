@@ -50,5 +50,7 @@ nav {
   flex-direction: column;
   text-align: center;
   align-items: center; }
+  .landing_page p {
+    width: 700px; }
 
 /*# sourceMappingURL=main.css.map */
