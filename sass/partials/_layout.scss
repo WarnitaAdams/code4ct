@@ -1,32 +1,61 @@
 // The layout of the website, basically the css grids
+nav {
+    top: 0;
+    // display: flex;
+}
+
 .navbar {
     overflow: hidden;
     height: 55px ;
     text-align: center;
-    display: block;
+    // display: block;
     word-spacing: 20px;
-    margin-left: 5px; 
+    background-color: #f9f9f9;
+    // margin-left: 5px; 
+    position: fixed;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    padding: 3px;
+
+    .navbar img {
+        height: 50px;
+        float: left;
+        padding-right: 105px;
+    }
+
+    .nav_wrapper{
+        padding-left: 70px;
+
+        a{
+            width: 201px;
+            height: 5.5px;
+            font-family: Poppins;
+            font-size: 10px;
+            line-height: 2.14;
+            color: #666666;
+            text-decoration: none;
+        }
+        a:active{
+            color: #ee534f;
+        }
+
+    }
+    .search_container {
+        padding-left: 141px;
+        // float: right;
+        // margin-right: 20%;
+        // margin-bottom: 100%;
+        // text-align: center;
+
+        form{
+            display: flex;
+        }
+    }
 }
 
-.navbar a {
-    width: 201px;
-    height: 5.5px;
-    font-family: Poppins;
-    font-size: 10px;
-    line-height: 2.14;
-    color: #666666;
-    text-decoration: none;
-}
-
-a:active {
-    color: #ee534f;
-}
-
-.search_container {
-    float: right;
-    margin-right: 20%;
-    margin-bottom: 10%;
-}
 
 // form {
 //     width: 200px;

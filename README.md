@@ -16,6 +16,10 @@
 # 26 November 2018
 - Started on the navigation bar.
 
+# 29 November 2018
+- Finished the navigation bar
+- Added the log
+
 
 # Contributors:
 - Warnita Adams
