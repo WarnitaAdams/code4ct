@@ -44,7 +44,11 @@ nav {
     .navbar .search_container form {
       display: flex; }
 
-.banner {
-  margin-top: 90px; }
+.landing_page {
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center; }
 
 /*# sourceMappingURL=main.css.map */
