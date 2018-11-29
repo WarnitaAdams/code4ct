@@ -1,3 +1,10 @@
+.navbar img {
+  height: 50px;
+  float: left; }
+
+.search_button {
+  margin-right: 100px; }
+
 .navbar {
   overflow: hidden;
   height: 55px;
