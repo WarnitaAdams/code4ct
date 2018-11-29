@@ -45,11 +45,12 @@ nav {
       display: flex; }
 
 .landing_page {
-  margin-top: 90px;
   display: flex;
   flex-direction: column;
   text-align: center;
-  align-items: center; }
+  align-items: center;
+  justify-content: center;
+  height: 100vh; }
   .landing_page p {
     width: 700px; }
 
