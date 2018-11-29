@@ -17,8 +17,14 @@
 - Started on the navigation bar.
 
 # 29 November 2018
+- Styled the navigation bar
 - Finished the navigation bar
-- Added the log
+- Added the logo
+- Created the landing_page
+- Created the text for the landing page
+- Styled the text
+-
+
 
 
 # Contributors:
