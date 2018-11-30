@@ -23,9 +23,15 @@
 - Created the landing_page
 - Created the text for the landing page
 - Styled the text
--
+
+
+# 30 November 2018
+- Fixed (position:relative;) the nav_wrapper
 
 
 
 # Contributors:
 - Warnita Adams
+
+# Live link:
+- https://warnitaadams.github.io/code4ct/index.html
