@@ -27,6 +27,7 @@
 
 # 30 November 2018
 - Fixed (position:relative;) the nav_wrapper
+- added a background image to the landing page
 
 
 

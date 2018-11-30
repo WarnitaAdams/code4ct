@@ -1,9 +1,10 @@
 // my global import
 
 @import 'partials/variables',
+        // 'partials/mixins',
         'partials/base',
-        'partials/components',
         'partials/layout',
+        'partials/components',
         'partials/responsiveness';
 
 // sass --watch sass:css

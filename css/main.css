@@ -2,9 +2,8 @@ html {
   padding: 0%;
   margin: 0 auto; }
 
-.navbar img {
-  height: 50px;
-  float: left; }
+.article {
+  color: #e8e8e8; }
 
 nav {
   top: 0;
@@ -40,7 +39,8 @@ nav {
     .navbar .nav_wrapper a:active {
       color: #ee534f; }
   .navbar .search_container {
-    position: relative; }
+    position: relative;
+    left: 120px; }
     .navbar .search_container form {
       display: flex; }
 
@@ -51,8 +51,15 @@ nav {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url(""); }
+  background-image: url("../img/Code4CT-homepage.jpg"); }
   .landing_page p {
     width: 700px; }
+
+.navbar img {
+  height: 50px;
+  float: left; }
+
+.btn_1 {
+  border-radius: 12px; }
 
 /*# sourceMappingURL=main.css.map */
