@@ -40,7 +40,7 @@ nav {
     .navbar .nav_wrapper a:active {
       color: #ee534f; }
   .navbar .search_container {
-    padding-left: 141px; }
+    position: relative; }
     .navbar .search_container form {
       display: flex; }
 
@@ -50,7 +50,8 @@ nav {
   text-align: center;
   align-items: center;
   justify-content: center;
-  height: 100vh; }
+  height: 100vh;
+  background-image: url("Code4CT-homepage.jpg"); }
   .landing_page p {
     width: 700px; }
 

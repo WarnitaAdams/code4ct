@@ -45,11 +45,13 @@ nav {
 
     }
     .search_container {
-        padding-left: 141px;
+        // padding-left: 141px;
         // float: right;
         // margin-right: 20%;
         // margin-bottom: 100%;
         // text-align: center;
+        position: relative;
+        // left: 78px; (continue to move the search bar and then move the logo)
 
         form{
             display: flex;
@@ -80,6 +82,7 @@ nav {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image: url("Code4CT-homepage.jpg");
 
 
     p{
